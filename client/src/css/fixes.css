@@ -1,0 +1,141 @@
+.header_top, .header_top_outer, .header_top_inner, .header_top_aligner{
+    height: 35px;
+}
+.header_mid .header_mid_inner .logo_wrap {
+    width : 215px;
+}
+.header_mid_inner .logo .logo_retina {
+    width : 179px;
+}
+.page_section{
+    margin-top: 25px;
+}
+#cmsms_row_58a348143ec3c .cmsms_row_outer_parent {
+    padding-top: 0;
+}
+
+#cmsms_row_58a348143ec3c .cmsms_row_outer_parent {
+    padding-bottom: 50px;
+}
+.headline_outer {
+    background-image:url('http://eco-nature.cmsmasters.net/wp-content/uploads/2014/07/bg-prlx-big-11.jpg');
+    background-repeat:repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}.headline_color {
+     background-color:#000000;
+     opacity:0;
+ }
+.headline_aligner {
+    min-height:150px;
+}
+#cmsms_row_58ab432046544 .cmsms_row_outer_parent {
+    padding-top: 50px;
+}
+
+#cmsms_row_58ab432046544 .cmsms_row_outer_parent {
+    padding-bottom: 40px;
+}
+
+
+#cmsms_heading_58ab4320468d3, #cmsms_heading_58ab4320468d3 a {
+    font-size:26px;
+    font-weight:400;
+    font-style:normal;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#cmsms_row_58ab432046a76 .cmsms_row_outer_parent {
+    padding-top: 0px;
+}
+
+#cmsms_row_58ab432046a76 .cmsms_row_outer_parent {
+    padding-bottom: 0px;
+}
+
+
+#cmsms_row_58ab43204cd56 .cmsms_row_outer_parent {
+    padding-top: 50px;
+}
+
+#cmsms_row_58ab43204cd56 .cmsms_row_outer_parent {
+    padding-bottom: 40px;
+}
+
+
+#cmsms_heading_58ab43204cfc3, #cmsms_heading_58ab43204cfc3 a {
+    font-size:26px;
+    font-weight:400;
+    font-style:normal;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#cmsms_row_58ab43204d0d0 .cmsms_row_outer_parent {
+    padding-top: 0px;
+}
+
+#cmsms_row_58ab43204d0d0 .cmsms_row_outer_parent {
+    padding-bottom: 0px;
+}
+
+
+#cmsms_row_58ab43204f682 .cmsms_row_outer_parent {
+    padding-top: 50px;
+}
+
+#cmsms_row_58ab43204f682 .cmsms_row_outer_parent {
+    padding-bottom: 0px;
+}
+
+
+#cmsms_heading_58ab43204f8e1, #cmsms_heading_58ab43204f8e1 a {
+    font-size:26px;
+    font-weight:400;
+    font-style:normal;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#cmsms_row_58ab43204f9fd .cmsms_row_outer_parent {
+    padding-top: 0px;
+}
+
+#cmsms_row_58ab43204f9fd .cmsms_row_outer_parent {
+    padding-bottom: 0px;
+}
+
+
+#cmsms_clients_58ab43204fc7b .cmsms_clients_item { height:160px; line-height:160px; }
+#cmsms_clients_58ab43204fc7b .cmsms_clients_item a { line-height:160px; }
+
+#cmsms_row_58ab4320514ed {
+    background-image: url(http://eco-nature.cmsmasters.net/wp-content/uploads/2014/07/bg-prlx-big-2.jpg);
+    background-position: top center;
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+#cmsms_row_58ab4320514ed .cmsms_row_outer_parent {
+    padding-top: 40px;
+}
+
+#cmsms_row_58ab4320514ed .cmsms_row_outer_parent {
+    padding-bottom: 20px;
+}
+
+.thumbnail .caption h3{
+    text-align: center;
+    font-size: 2em;
+}
+.glyphicon.home-icon{
+    color: #58cf90;
+    font-size: 40px;
+    line-height: 1.9em;
+    font-weight: normal;
+    vertical-align: baseline;
+    margin-left: .2em;
+    margin-right: .3em;
+}
